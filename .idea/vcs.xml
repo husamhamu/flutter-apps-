@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Clima-Flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/arduino_voice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bitcoin-ticker-flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bmi-calculator-flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo_app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/drawer_challenge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flash-chat-flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xylophone-flutter" vcs="Git" />
+  </component>
+</project>
